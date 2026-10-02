@@ -1,0 +1,4 @@
+(library
+ (name kavel)
+ (public_name kavel)
+ (libraries ezcurl yojson unix))
